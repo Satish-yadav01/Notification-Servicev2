@@ -1,5 +1,5 @@
 package com.notification.notificationservice.constant;
 
 public enum NotificationType {
-    EMAIL, SMS, PUSH
+    EMAIL, SMS, PUSH, LOG
 }
